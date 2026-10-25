@@ -1,0 +1,16 @@
+# Python 3.12. Versions are those the manuscript outputs were produced with.
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.9.0
+scikit-image==0.24.0  # 0.25+ changes regionprops shape measures; see README
+statsmodels==0.15.0
+matplotlib==3.11.1
+torch==2.13.0
+gpytorch==1.15.2
+linear-operator==0.6.1
+botorch==0.18.1
+openpyxl==3.1.5
+tifffile==2026.9.9
+pillow==12.3.0
+imageio==2.37.4
