@@ -15,9 +15,9 @@ The ANDROMEDA experiment-planning software is not included and is not needed.
 
 - `data/ILX006_pellet_campaign_dataset.xlsx`: all experimental data, one sheet per
   table, with a README sheet and data dictionary
-  ([10.5281/zenodo.23651361](https://doi.org/10.5281/zenodo.23651361)).
+  ([10.5281/zenodo.23651360](https://doi.org/10.5281/zenodo.23651360)).
 - Pellet photographs, needed only for Figure S1
-  ([10.5281/zenodo.23651222](https://doi.org/10.5281/zenodo.23651222)). Unzip
+  ([10.5281/zenodo.23651221](https://doi.org/10.5281/zenodo.23651221)). Unzip
   the archive in the repository root.
 
 The filler is microcrystalline cellulose only: `lactose_mass` is 0 throughout.
